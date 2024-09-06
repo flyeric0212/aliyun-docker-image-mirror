@@ -2,4 +2,4 @@ nginx
 mysql:8.0.37
 redis:6.2.14
 halohub/halo:2.18
-quay.io/keycloak/keycloak:25.0.1
+amuguelove/weixin-md:1.0.0
