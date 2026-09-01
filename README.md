@@ -1,3 +1,5 @@
+
+
 # Docker Image Mirror 工具
 
 这个工具用于将 Docker 镜像从公共仓库拉取并推送到阿里云容器镜像服务。支持本地运行和 GitHub Actions 集成。
@@ -87,7 +89,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 ### Bash 脚本版本
 
 ```bash
-# 确保脚本有执行权限
+# 确保已安装 Docker 且脚本有执行权限
 chmod +x docker-mirror.sh
 
 # 运行脚本
